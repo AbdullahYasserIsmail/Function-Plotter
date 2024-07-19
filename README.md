@@ -34,7 +34,7 @@ To run this project, all what you have to do is just download the main.py file a
 5-Pytest-qt
 
 Please don't run it on environments like google colab as they are not suitable for such kind of programs. I already did this and the program crashed.
-The program also has two python tests for automated tests and making sure the program is totally functional. I already included a lot of test cases
+The program also has two python files for automated tests and making sure the program is totally functional. I already included a lot of test cases
 that check for the program functionality and correctness. 
 
 If you need any help or you want to contact me please feel free to write to me at my email: abdullahyasser401@gmail.com
