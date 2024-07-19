@@ -9,21 +9,27 @@ The program was basically built using PySide2 and matplotlibrary. PySide2 were u
 The GUI window that is launched is clean, simply and tells what to do based on your interactions.
 
 I have also taken advantage of the a powerful capabilities of matplotlib to finish this program and incorporate the basic function of the program: graphing. 
-
 Why to use this program?
 
 1- It's smart as it can understand a lot of expressions and handle them to produce a graph.
+
 2- It can detect errors and tell you which kind of error in the mathematical expression of yours, which makes it a lot easier to correct it.
+
 3- It's flexible and can do more better than that. The program can plot expnonetial, log10, square root, polynomial, and constant functions. However, with just two steps
 you can extend its functionality and add more functions to be plotted.
+
 4- The GUI is simple and clean.
 
 To run this project, all what you have to do is just download the main.py file and run it. Before doing so, please run it on an IDE like pycharm and make sure you have the following modules installed:
 
 1-Numpy
+
 2-Matplotlib
+
 3-PySide2
+
 4-Pytest (for automated tests)
+
 5-Pytest-qt
 
 Please don't run it on environments like google colab as they are not suitable for such kind of programs. I already did this and the program crashed.
