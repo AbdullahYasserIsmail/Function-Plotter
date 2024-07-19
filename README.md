@@ -9,6 +9,7 @@ The program was basically built using PySide2 and matplotlibrary. PySide2 were u
 The GUI window that is launched is clean, simply and tells what to do based on your interactions.
 
 I have also taken advantage of the a powerful capabilities of matplotlib to finish this program and incorporate the basic function of the program: graphing. 
+
 Why to use this program?
 
 1- It's smart as it can understand a lot of expressions and handle them to produce a graph.
